@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Instagram in Instagram, no dependencies
+InstagramTests in Instagram, depends on:
+Instagram in Instagram (explicit)
+InstagramUITests in Instagram, depends on:
+Instagram in Instagram (explicit)

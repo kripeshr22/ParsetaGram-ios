@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "57e3a72a2865e39529628e09d2127c30539f8f9e1457e92b1fa7b32c05ea3c0f"
+build_start_time: [1648159883, 470003128]
+build_end_time: [1648159885, 675312995]
+inputs:
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Pods/AlamofireImage/Source/AFIError.swift": [1648104030, 823786258]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Pods/AlamofireImage/Source/Image.swift": [1648104030, 824491500]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Pods/AlamofireImage/Source/ImageCache.swift": [1648104030, 822416782]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Pods/AlamofireImage/Source/ImageDownloader.swift": [1648104030, 828289031]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Pods/AlamofireImage/Source/ImageFilter.swift": [1648104030, 830746173]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1648104030, 830204486]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1648104030, 826206207]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1648104030, 823027133]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1648104030, 829698324]

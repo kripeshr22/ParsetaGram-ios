@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "0a5b86d294dd178015f66cca5db0e9a8c298c02a231f38248e4de6ff3d188ba7"
+build_start_time: [1648104039, 321118831]
+build_end_time: [1648104044, 188643932]
+inputs:
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/AppDelegate.swift": [1648102810, 668209791]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/SceneDelegate.swift": [1648102810, 675209522]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/ViewController.swift": [1648102810, 678595066]
