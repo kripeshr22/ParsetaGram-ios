@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
 options: "e5ab5e9422a53ba45284d18bd4db99f7d23d5b063ef0ee7da37f5de7eaca9930"
-build_start_time: [1648159866, 869844913]
-build_end_time: [1648159883, 367722988]
+build_start_time: [1648704206, 188385963]
+build_end_time: [1648704206, 579184055]
 inputs:
   "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Pods/Alamofire/Source/AFError.swift": [1648104030, 797898530]
   "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Pods/Alamofire/Source/Alamofire.swift": [1648104030, 806903123]

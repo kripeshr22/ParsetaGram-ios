@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
 options: "57e3a72a2865e39529628e09d2127c30539f8f9e1457e92b1fa7b32c05ea3c0f"
-build_start_time: [1648159883, 470003128]
-build_end_time: [1648159885, 675312995]
+build_start_time: [1648704206, 685545921]
+build_end_time: [1648704206, 802033901]
 inputs:
   "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Pods/AlamofireImage/Source/AFIError.swift": [1648104030, 823786258]
   "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Pods/AlamofireImage/Source/Image.swift": [1648104030, 824491500]

@@ -11,6 +11,7 @@
 		A200F64E27ED254B0004228E /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A200F64D27ED254B0004228E /* FeedViewController.swift */; };
 		A200F65027ED2B3C0004228E /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A200F64F27ED2B3C0004228E /* CameraViewController.swift */; };
 		A257FF7427ED78C600DFD337 /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A257FF7327ED78C600DFD337 /* PostTableViewCell.swift */; };
+		A265F38827F564C2003F931E /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A265F38727F564C1003F931E /* CommentCell.swift */; };
 		A2E9957D27EC451A00A7403A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E9957C27EC451A00A7403A /* AppDelegate.swift */; };
 		A2E9957F27EC451A00A7403A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E9957E27EC451A00A7403A /* SceneDelegate.swift */; };
 		A2E9958427EC451A00A7403A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2E9958227EC451A00A7403A /* Main.storyboard */; };
@@ -46,6 +47,7 @@
 		A200F64D27ED254B0004228E /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		A200F64F27ED2B3C0004228E /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		A257FF7327ED78C600DFD337 /* PostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
+		A265F38727F564C1003F931E /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		A2E9957927EC451A00A7403A /* Instagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2E9957C27EC451A00A7403A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A2E9957E27EC451A00A7403A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				A200F64D27ED254B0004228E /* FeedViewController.swift */,
 				A200F64F27ED2B3C0004228E /* CameraViewController.swift */,
 				A257FF7327ED78C600DFD337 /* PostTableViewCell.swift */,
+				A265F38727F564C1003F931E /* CommentCell.swift */,
 			);
 			path = Instagram;
 			sourceTree = "<group>";
@@ -341,6 +344,7 @@
 				A200F64E27ED254B0004228E /* FeedViewController.swift in Sources */,
 				A2E9957F27EC451A00A7403A /* SceneDelegate.swift in Sources */,
 				A257FF7427ED78C600DFD337 /* PostTableViewCell.swift in Sources */,
+				A265F38827F564C2003F931E /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

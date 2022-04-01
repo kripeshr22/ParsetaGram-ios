@@ -1,11 +1,12 @@
 version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
-options: "649dccac8f3bdd2a8b4e58ad4c5165b1599e5045ae21b2f0d9566190a1a2b1ce"
-build_start_time: [1648183099, 657938957]
-build_end_time: [1648183101, 333324909]
+options: "6a355a45c6fa9361e2b93e0d1510b4e723b96aa8ed015648ad5b8a0790dd98d1"
+build_start_time: [1648856156, 903251171]
+build_end_time: [1648856157, 671723842]
 inputs:
-  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/AppDelegate.swift": [1648107473, 218515396]
-  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/CameraViewController.swift": [1648163529, 932009696]
-  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/FeedViewController.swift": [1648183099, 175161361]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/AppDelegate.swift": [1648507842, 27053356]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/CameraViewController.swift": [1648856155, 461524724]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/CommentCell.swift": [1648701003, 683895111]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/FeedViewController.swift": [1648855811, 761223554]
   "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/LoginViewController.swift": [1648162317, 346153259]
   "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/PostTableViewCell.swift": [1648181909, 705475807]
-  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/SceneDelegate.swift": [1648102810, 675209522]
+  "/Users/kripeshranabhat/Desktop/Assignment 4/Instagram/Instagram/SceneDelegate.swift": [1648507871, 461523056]

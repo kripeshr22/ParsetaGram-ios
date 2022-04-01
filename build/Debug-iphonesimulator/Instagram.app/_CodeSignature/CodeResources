@@ -28,17 +28,17 @@
 		<data>
 		JXUmiV93iXa3MHIximVo9MUtsQY=
 		</data>
+		<key>Base.lproj/Main.storyboardc/FeedNaviagtionController.nib</key>
+		<data>
+		lG2ZtQ33XsvpbPibXnXbiTsV6rY=
+		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		tvPUpdXpH58RCAs0woNsNIRgHc8=
+		M0FxMyAkjbCn5hDevGJL/W+mdC8=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UINavigationController-9Q5-Xa-PcF.nib</key>
+		<key>Base.lproj/Main.storyboardc/LoginViewController.nib</key>
 		<data>
-		Ft2DDAVqJTHFq4ACQHAPbiY9mqE=
-		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
-		<data>
-		peEUjYoc1OGazL6COlqztx82+b0=
+		cCOb/6/83K5dLIfAKNhiZVgVFhc=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-fez-cz-AQS.nib</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/glt-XQ-McT-view-6ng-g6-jzL.nib</key>
 		<data>
-		GeGs6GVz2DMM9wk30bx4wSoLbQI=
+		dM/cQZ5jHnEg79jatCd3pO0wpWc=
 		</data>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
@@ -87,6 +87,18 @@
 		<key>Frameworks/Bolts.framework/_CodeSignature/CodeResources</key>
 		<data>
 		Bvnv26LWeeCyL0DmNFJcG3bX39I=
+		</data>
+		<key>Frameworks/MessageInputBar.framework/Info.plist</key>
+		<data>
+		OSspXlGVa62IfUwWoURHMkAJogQ=
+		</data>
+		<key>Frameworks/MessageInputBar.framework/MessageInputBar</key>
+		<data>
+		AJ47Iv4iY6XhBoduJBUfrl50KHo=
+		</data>
+		<key>Frameworks/MessageInputBar.framework/_CodeSignature/CodeResources</key>
+		<data>
+		MHbA2xfKDNya4oPBNTu8aYXn1iU=
 		</data>
 		<key>Frameworks/Parse.framework/Info.plist</key>
 		<data>
@@ -186,25 +198,25 @@
 			OJSTQnC9kVJt5R4GMbRoz3YYf+FuAnof2ra+fSP93i8=
 			</data>
 		</dict>
+		<key>Base.lproj/Main.storyboardc/FeedNaviagtionController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C7elt2zluviE8/SE3A2ZkQUVf3EW7QMUICXuqPWkAiI=
+			</data>
+		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KV7pyIcYCMUTHOLkqAhPhFg6VWmAcCw6K5/xryTAn1Q=
+			T+MgXB3Q9Rxw63lSmh/kTJGSIe7lq5g3LYhi0y2anww=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UINavigationController-9Q5-Xa-PcF.nib</key>
+		<key>Base.lproj/Main.storyboardc/LoginViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RwC2biG8424Nmfw9J3th1+IN3X8gxvbB8M2T3nJ5aYM=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2oQnieUYRSg+ZeY+f/yKV5vcxJl65iNbhFwIY0ERnZw=
+			EUCfa32wz71udJW0mDU+7r4t7dixBJ640Xw7+kjxPlg=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-fez-cz-AQS.nib</key>
@@ -225,7 +237,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x1kPAp3Olp7rzT8Ku+muoKtGYRfE/eVBjViVoHGjzUo=
+			OtBIeps6rQ/5Clck2IAeMcVyA/HY2wkktsJlDyQHaZg=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
@@ -289,6 +301,27 @@
 			<key>hash2</key>
 			<data>
 			aKgWBkq35RFez++Dhpif3DjcL6WMDFvW4yQdQ4xrMNU=
+			</data>
+		</dict>
+		<key>Frameworks/MessageInputBar.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eg6vCREtnbylsKrYCfoF8z84JSNFjQc7Wz2MWpW+ot8=
+			</data>
+		</dict>
+		<key>Frameworks/MessageInputBar.framework/MessageInputBar</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eneme+QbsCKgiX//7FhA0cuGh6uKtVQEzLkEuIOk/aM=
+			</data>
+		</dict>
+		<key>Frameworks/MessageInputBar.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O8MMamemp2NnY0N4YdWGysvHoXpFXQOo8kZltgyfQWs=
 			</data>
 		</dict>
 		<key>Frameworks/Parse.framework/Info.plist</key>
